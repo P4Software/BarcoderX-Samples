@@ -1,0 +1,12 @@
+# .NET build output
+bin/
+obj/
+TestResults/
+*.user
+
+# Editors and OS
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
