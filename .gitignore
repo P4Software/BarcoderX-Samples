@@ -11,5 +11,5 @@ TestResults/
 Thumbs.db
 .DS_Store
 
-# Claude Code agent worktrees (never committed)
+# Local scratch worktrees (never committed)
 .claude/worktrees/
