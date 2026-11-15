@@ -53,6 +53,12 @@ Cuando un ejemplo esté Disponible, abra su carpeta, lea su README y ejecútelo.
 
 [Abra una incidencia](https://github.com/P4Software/BarcoderX-Samples/issues) (issue). Indique qué carpeta de ejemplo usó, qué sistema operativo utiliza, qué esperaba y qué ocurrió. Nunca pegue una clave de licencia ni una clave de API en una incidencia.
 
+## Licencia
+
+Los ejemplos de este repositorio se publican bajo la [Licencia MIT](LICENSE).
+
+Esto cubre únicamente el código de los ejemplos. El SDK de BarcoderX y sus demás componentes se licencian por separado, bajo sus propios términos comerciales.
+
 ---
 
 *BarcoderX es un producto de P4 Software.*
