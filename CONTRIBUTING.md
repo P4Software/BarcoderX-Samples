@@ -60,6 +60,10 @@ A README for an Available sample has these sections, in this order: what the sam
 - In a topic folder, the path to the logo is `../brand/barcoderx-horizontal.svg`.
 - Light theme only. Do not add a dark variant of anything.
 
+## License
+
+Every sample added here is released under the repository's MIT License (see `LICENSE`).
+
 ## Commits and pull requests
 
 - A commit message describes the change and nothing else. The same goes for a pull request description. They carry no co-author trailer and no credit line of any kind.
