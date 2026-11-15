@@ -53,6 +53,12 @@ Once a sample is Available, open its folder, read its README and run it. Most sa
 
 [Open an issue](https://github.com/P4Software/BarcoderX-Samples/issues). Please say which sample folder you used, which operating system you run, what you expected and what happened. Never paste a license key or an API key into an issue.
 
+## License
+
+The samples in this repository are released under the [MIT License](LICENSE).
+
+This covers the sample code only. The BarcoderX SDK and its other components are licensed separately, under their own commercial terms.
+
 ---
 
 *BarcoderX is a product of P4 Software.*
